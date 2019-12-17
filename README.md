@@ -1,7 +1,7 @@
-# TinyCircuits Whisker Temp Press Hum VOC
+# TinyCircuits Wireling Temp Press Hum VOC
 # AST1036 Rev1
 
-The design files are located under design_files/ for the TinyCircuits AST1036 Rev 1 PCB. This is a whisker board which features the BME680 Sensor that is a 4-in-1 sensor including the ability to measure temperature, barometric pressure, humidity, and gas.
+The design files are located under design_files/ for the TinyCircuits AST1036 Rev 1 PCB. This is a Wireling board which features the BME680 Sensor that is a 4-in-1 sensor including the ability to measure temperature, barometric pressure, humidity, and gas.
 
 Format is in Cadsoft Eagle format - Eagle version 6.2 was used for the original design.
 
